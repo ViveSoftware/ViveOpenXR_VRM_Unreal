@@ -3,7 +3,7 @@
 Copyright 2022-2023, HTC Corporation. All rights reserved.
 
 # About
-[VRM](https://vroid.com/en/studio) assists developers to create content with actual facial expressions. Visit VIVE Developers website for more information.
+[VRM](https://vroid.com/en/studio) assists developers to create content with actual facial expressions. Visit [VIVE Developers website] for more information.
 
 # Requirements
 
