@@ -11,7 +11,7 @@ Copyright 2022-2023, HTC Corporation. All rights reserved.
 * Vive OpenXR plugin 2.2.0
 
 # License
-See LICENSE.pdf for more information.
+See [LICENSE.pdf](https://github.com/ViveSoftware/ViveOpenXR_FacialExpressMaker_Unreal/blob/main/LICENSE.pdf) for more information.
 
 # Contact Us
 Email: ViveSoftware@htc.com
