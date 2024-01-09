@@ -1,4 +1,4 @@
-# ViveOpenXR_VRM_Unreal
+# ViveOpenXR VRM sample
 
 Copyright 2022-2023, HTC Corporation. All rights reserved.
 
