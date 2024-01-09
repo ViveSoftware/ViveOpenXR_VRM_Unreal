@@ -1,4 +1,4 @@
-# ViveOpenXR_FacialExpressMaker_Unreal
+# ViveOpenXR_VRM_Unreal
 
 Copyright 2022-2023, HTC Corporation. All rights reserved.
 
