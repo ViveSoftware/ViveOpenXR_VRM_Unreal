@@ -3,3 +3,5 @@
 [attr]lfs -text filter=lfs diff=lfs merge=lfs
 # Binary
 *.pdb lfs
+
+*.pdb filter=lfs diff=lfs merge=lfs -text
