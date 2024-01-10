@@ -2,4 +2,4 @@
 #grafted from https://hextantstudios.com/unity-gitattributes/
 [attr]lfs -text filter=lfs diff=lfs merge=lfs
 # Binary
-*.pdb lfs 
+*.pdb lfs
