@@ -54,7 +54,7 @@ public:
     UPROPERTY(GlobalConfig, EditAnywhere, Category = "Hand Interaction",
         Meta = (ConfigRestartRequired = true, DisplayName = "Enable Hand Interaction",
         Tooltip = "To help software developers create hand interactions with the OpenXR hand interaction extension XR_HTC_hand_interaction. \nNOTE: You need to restart the engine to apply new settings after clicking \"Enable Hand Interaction\"."))
-    bool bEnableHandInteraction = true;
+    bool bEnableHandInteraction = false;
 
     UPROPERTY(GlobalConfig, EditAnywhere, Category = "Passthrough",
         Meta = (ConfigRestartRequired = true, DisplayName = "Enable Passthrough",
