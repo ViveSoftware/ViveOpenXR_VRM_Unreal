@@ -7,7 +7,7 @@ Copyright 2022-2023, HTC Corporation. All rights reserved.
 
 # Requirements
 
-* Unreal Engine 5.1-5.3
+* Unreal Engine 5.2-5.3
 * Vive OpenXR plugin 2.2.0
 
 # License
