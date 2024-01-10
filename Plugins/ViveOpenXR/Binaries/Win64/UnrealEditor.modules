@@ -1,0 +1,18 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"ViveCustomHandGesture": "UnrealEditor-ViveCustomHandGesture.dll",
+		"ViveOpenXRCosmosController": "UnrealEditor-ViveOpenXRCosmosController.dll",
+		"ViveOpenXRDisplayRefreshRate": "UnrealEditor-ViveOpenXRDisplayRefreshRate.dll",
+		"ViveOpenXREditor": "UnrealEditor-ViveOpenXREditor.dll",
+		"ViveOpenXRFacialTracking": "UnrealEditor-ViveOpenXRFacialTracking.dll",
+		"ViveOpenXRFocus3Controller": "UnrealEditor-ViveOpenXRFocus3Controller.dll",
+		"ViveOpenXRHMD": "UnrealEditor-ViveOpenXRHMD.dll",
+		"ViveOpenXRHandInteraction": "UnrealEditor-ViveOpenXRHandInteraction.dll",
+		"ViveOpenXRPassthrough": "UnrealEditor-ViveOpenXRPassthrough.dll",
+		"ViveOpenXRRuntimeSettings": "UnrealEditor-ViveOpenXRRuntimeSettings.dll",
+		"ViveOpenXRSceneUnderstanding": "UnrealEditor-ViveOpenXRSceneUnderstanding.dll",
+		"ViveOpenXRWristTracker": "UnrealEditor-ViveOpenXRWristTracker.dll"
+	}
+}
