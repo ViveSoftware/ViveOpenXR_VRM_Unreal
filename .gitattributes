@@ -1,0 +1,5 @@
+#https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes
+#grafted from https://hextantstudios.com/unity-gitattributes/
+[attr]lfs -text filter=lfs diff=lfs merge=lfs
+# Binary
+*.pdb lfs 
